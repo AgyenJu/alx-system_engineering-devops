@@ -14,3 +14,4 @@ It must be in that file
 count that wors
 whats next
 I hate bin
+Letters only please
