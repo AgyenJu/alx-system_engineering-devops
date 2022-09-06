@@ -15,3 +15,4 @@ count that wors
 whats next
 I hate bin
 Letters only please
+A to Z
