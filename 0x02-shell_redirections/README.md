@@ -3,3 +3,4 @@ Display the content of the /etc/passwd file
 what about 2?
 Last lines of a line
 I do prefer the firat ones actual
+Lina #2
