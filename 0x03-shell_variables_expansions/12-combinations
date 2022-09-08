@@ -1,2 +1,2 @@
-#!/bi/bash
-printf "%s\n" {a..z}{a..z} | grep -v "oo"
+#!/bi/bas
+printf {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
