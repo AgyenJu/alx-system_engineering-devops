@@ -11,3 +11,4 @@ Write a script that prints the result of the addition of 128 with the value stor
 9-divide_and_rule
 10-love_exponent_breath
 11-binary_to_decimal
+12-combinations
